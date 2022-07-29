@@ -1,0 +1,32 @@
+.proedu-text{
+    font-size: 30px;
+    color: gray;
+}
+.custom-nav-text li a{
+    color: gray;
+}
+.slider-img-first{
+    background-image: url(../images/cover/cover-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+}
+.slider-img-sec{
+    background-image: url(../images/cover/cover-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+}
+.slider-img-third{
+    background-image: url(../images/cover/cover-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
+    width: 100%;
+}
+/* ===========header section ends here=================== */
